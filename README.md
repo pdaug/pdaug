@@ -21,53 +21,58 @@ junho de 2019 - agosto de 2019
 
 ## Formação Acadêmica
 
-```
-Faculdade de Tecnologia de São Paulo
+
+### Faculdade de Tecnologia de São Paulo
+
 Tecnologo, Gestão da Tecnologia da Informação
+
 2018 - O momento
-```
+
 
 ## Licenças e Certificados
 
-```
-IBM
-Developing Cloud Applications with Node.js and React
+
+### IBM
+
+**Developing Cloud Applications with Node.js and React**
+
 Emitido junho de 2021
-```
 
-```
-IBM
-Introduction to Cloud Computing
+
+### IBM
+
+**Introduction to Cloud Computing**
+
 Emitido julho de 2021
-```
 
-```
-Harvard
-Using Python for Research
+
+### Harvard
+
+**Using Python for Research**
+
 Emitido junho de 2020
+
 https://courses.edx.org/certificates/c47efaf478954aa9b9e71bbf49d9a691
-```
+
 
 ## Experiência de voluntariado
 
-```
-Participante Modalidade Senior
+
+### Participante Modalidade Senior
+
 Feira de Ciência das Escolas Estaduais de São Paulo
+
 2015 - 2016 - 2017
-```
+
 
 ## Competências
 
-```
-Python
-JavaScript
-SQL
-```
+- Python
+- JavaScript
+- SQL
 
 ## Idiomas
 
-```
-Português
-Inglês
-Francês
-```
+- Português
+- Inglês
+- Francês
