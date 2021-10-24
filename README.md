@@ -1,25 +1,34 @@
 # PEDRO AUGUSTO DOS SANTOS
 
-## Experiência
+## 💻 Experiência
 
 ### SuperGeeks
 
+<img src="https://i.ibb.co/FmgKcwB/SUPERGEEKSLOGO.png" alt="SUPERGEEKS LOGO" width="100"/>
+
 ```
-Instrutor de Games, Robótica e Web
-agosto de 2020 - O momento
+Instrutor de Desenvolvimento de Games, Robótica e Desenvolvimento Web
+Agosto de 2020 - O momento
+
+Ferramentas em Games: Unity, Godot e Construct
+Linguagens em Web: React, Javascript, HTML e CSS
+Linguagem em Robótica: C/C++ e Javascript
 ```
 
 ```
-Instrutor de Games e Robótica
-agosto de 2019 - agosto 2020
+Instrutor de Desenvolvimento de Games e Robótica
+Agosto de 2019 - Agosto 2020
+
+Ferramentas em Games: Unity e Construct
+Linguagem em Robótica: C/C++
 ```
 
 ```
 Estágiario
-junho de 2019 - agosto de 2019
+Junho de 2019 - Agosto de 2019
 ```
 
-## Formação Acadêmica
+## ✒️ Formação Acadêmica
 
 
 ### Faculdade de Tecnologia de São Paulo
@@ -28,11 +37,18 @@ Tecnologo, Gestão da Tecnologia da Informação
 
 2018 - O momento
 
+## 🧪 Competências e Conhecimentos
 
-## Licenças e Certificados
+- Python
+- JavaScript
+- SQL
+
+## 🏆 Licenças e Certificados
 
 
 ### IBM
+
+<img src="https://i.ibb.co/3hf7X4x/IBMLOGO.jpg" alt="IBM LOGO" width="100"/>
 
 **Developing Cloud Applications with Node.js and React**
 
@@ -41,6 +57,8 @@ Emitido junho de 2021
 
 ### IBM
 
+<img src="https://i.ibb.co/3hf7X4x/IBMLOGO.jpg" alt="IBM LOGO" width="100"/>
+
 **Introduction to Cloud Computing**
 
 Emitido julho de 2021
@@ -48,14 +66,16 @@ Emitido julho de 2021
 
 ### Harvard
 
+<img src="https://i.ibb.co/0FTSkRz/HARVARDXLOGO.jpg" alt="HARVARDX" width="100"/>
+
 **Using Python for Research**
 
 Emitido junho de 2020
 
-https://courses.edx.org/certificates/c47efaf478954aa9b9e71bbf49d9a691
+[Ver Certificado](https://courses.edx.org/certificates/c47efaf478954aa9b9e71bbf49d9a691)
 
 
-## Experiência de voluntariado
+## 💡 Experiência de voluntariado
 
 
 ### Participante Modalidade Senior
@@ -64,14 +84,7 @@ Feira de Ciência das Escolas Estaduais de São Paulo
 
 2015 - 2016 - 2017
 
-
-## Competências
-
-- Python
-- JavaScript
-- SQL
-
-## Idiomas
+## ✈️ Idiomas
 
 - Português
 - Inglês
