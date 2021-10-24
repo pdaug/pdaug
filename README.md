@@ -55,7 +55,7 @@ Tecnologo, Gestão da Tecnologia da Informação
 
 Emitido junho de 2021
 
-#
+<br/>
 
 ### IBM
 
@@ -65,7 +65,7 @@ Emitido junho de 2021
 
 Emitido julho de 2021
 
-#
+<br/>
 
 ### Harvard
 
