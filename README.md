@@ -7,8 +7,13 @@
 <img src="https://i.ibb.co/FmgKcwB/SUPERGEEKSLOGO.png" alt="SUPERGEEKS LOGO" width="100"/>
 
 ```
+Instrutor e Suporte de Conteúdo
+Fevereiro de 2022 - O momento
+```
+
+```
 Instrutor de Desenvolvimento de Games, Robótica e Desenvolvimento Web
-Agosto de 2020 - O momento
+Agosto de 2020 - Janeiro de 2022
 
 Ferramentas em Games: Unity, Godot e Construct
 Linguagens em Web: React, Javascript, HTML e CSS
