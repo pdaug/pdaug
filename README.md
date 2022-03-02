@@ -4,10 +4,8 @@
 
 ### SuperGeeks
 
-<img src="https://i.ibb.co/FmgKcwB/SUPERGEEKSLOGO.png" alt="SUPERGEEKS LOGO" width="100"/>
-
 ```
-Instrutor e Suporte de Conteúdo
+Instrutor e Conteudista
 Fevereiro de 2022 - O momento
 ```
 
@@ -35,8 +33,6 @@ Junho de 2019 - Agosto de 2019
 
 ## ✒️ Formação Acadêmica
 
-<img src="https://i.ibb.co/fqbhjbV/FATECLOGO.jpg" alt="LOGO FATEC" width="100" align="left"/>
-
 ### Faculdade de Tecnologia de São Paulo
 
 Tecnologo, Gestão da Tecnologia da Informação
@@ -54,8 +50,6 @@ Tecnologo, Gestão da Tecnologia da Informação
 
 ### IBM
 
-<img src="https://i.ibb.co/3hf7X4x/IBMLOGO.jpg" alt="IBM LOGO" width="100" align="left"/>
-
 **Developing Cloud Applications with Node.js and React**
 
 Emitido junho de 2021
@@ -64,8 +58,6 @@ Emitido junho de 2021
 
 ### IBM
 
-<img src="https://i.ibb.co/3hf7X4x/IBMLOGO.jpg" alt="IBM LOGO" width="100" align="left"/>
-
 **Introduction to Cloud Computing**
 
 Emitido julho de 2021
@@ -73,8 +65,6 @@ Emitido julho de 2021
 <br/>
 
 ### Harvard
-
-<img src="https://i.ibb.co/0FTSkRz/HARVARDXLOGO.jpg" alt="HARVARDX" width="100" align="left"/>
 
 **Using Python for Research**
 
