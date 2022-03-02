@@ -54,15 +54,11 @@ Tecnologo, Gestão da Tecnologia da Informação
 
 Emitido junho de 2021
 
-<br/>
-
 ### IBM
 
 **Introduction to Cloud Computing**
 
 Emitido julho de 2021
-
-<br/>
 
 ### Harvard
 
