@@ -5,13 +5,13 @@
 ### SuperGeeks
 
 ```
-Instrutor e Conteudista
-Fevereiro de 2022 - O momento
+Instrutor de Desenvolvimento de Games, Robótica, Desenvolvimento Web e Criador de Conteúdo
+Março de 2022 - O momento
 ```
 
 ```
 Instrutor de Desenvolvimento de Games, Robótica e Desenvolvimento Web
-Agosto de 2020 - Janeiro de 2022
+Agosto de 2020 - Fevereiro de 2022
 
 Ferramentas em Games: Unity, Godot e Construct
 Linguagens em Web: React, Javascript, HTML e CSS
