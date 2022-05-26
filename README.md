@@ -1,4 +1,4 @@
-# Experiências de Trabalho
+## EXPERIÊNCIAS PROFISSIONAIS
 
 ### SuperGeeks
 
@@ -29,7 +29,7 @@ Estágiario
 Junho de 2019 - Agosto de 2019
 ```
 
-# Formação Acadêmica
+## FORMAÇÕES ACADÊMICAS
 
 ### Faculdade de Tecnologia de São Paulo
 
@@ -38,7 +38,7 @@ Tecnologo, Gestão da Tecnologia da Informação
 2018 - O momento
 ```
 
-# Competências e Conhecimentos
+## COMPETÊNCIAS E CONHECIMENTOS
 
 ```
 - Python
@@ -46,7 +46,7 @@ Tecnologo, Gestão da Tecnologia da Informação
 - SQL
 ```
 
-# Licenças e Certificados
+## CERTIFICADOS
 
 
 ### IBM
@@ -71,24 +71,7 @@ Finalizado junho de 2020
 [Ver Certificado](https://courses.edx.org/certificates/c47efaf478954aa9b9e71bbf49d9a691)
 
 
-# Experiência de voluntariado
-
-
-### Participante Modalidade Senior
-
-```
-Feira de Ciência das Escolas Estaduais de São Paulo
-Anos de 2015 - 2016 - 2017
-```
-
-### Representante de Classe e Participante do Conselho
-
-```
-Faculdade de Tecnologia de São Paulo
-2018 - 2019
-```
-
-# Idiomas
+## Idiomas
 
 - Português
 - Inglês
