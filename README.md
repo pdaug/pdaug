@@ -41,9 +41,9 @@ Tecnologo, Gestão da Tecnologia da Informação
 ## COMPETÊNCIAS E CONHECIMENTOS
 
 ```
-- Python
-- JavaScript
-- SQL
+Python
+JavaScript
+SQL
 ```
 
 ## CERTIFICADOS
@@ -71,8 +71,10 @@ Finalizado junho de 2020
 [Ver Certificado](https://courses.edx.org/certificates/c47efaf478954aa9b9e71bbf49d9a691)
 
 
-## Idiomas
+## IDIOMAS
 
-- Português
-- Inglês
-- Francês
+```
+Português
+Inglês
+Francês
+```
