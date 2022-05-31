@@ -7,6 +7,8 @@ Conteudista
 Março de 2022 - O momento
 ```
 
+### SuperGeeks Itu
+
 ```
 Instrutor
 Agosto de 2020 - O momento
@@ -44,6 +46,11 @@ Tecnologo, Gestão da Tecnologia da Informação
 Python
 JavaScript
 SQL
+```
+
+```
+Comunicação
+Didática
 ```
 
 ## CERTIFICADOS
