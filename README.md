@@ -1,5 +1,3 @@
-<div align="center"><img src="https://i.ibb.co/MGGPfkX/Novo-Projeto.png" width="250"/></div>
-
 ## EXPERIÊNCIAS PROFISSIONAIS
 
 ### SuperGeeks
