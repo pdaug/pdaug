@@ -43,14 +43,18 @@ Tecnologo, Gestão da Tecnologia da Informação
 ## COMPETÊNCIAS E CONHECIMENTOS
 
 ```
-Python
+PostgreSQL
+NodeJs
 JavaScript
-SQL
+React
 ```
 
 ```
 Comunicação
 Didática
+Oratória
+Planejamento de aulas
+Metodologia de ensino
 ```
 
 ## CERTIFICADOS
