@@ -30,4 +30,9 @@ import { NodeJs, Typescript, React, MongoDB, DynamoDB, Git, AmazonAWS } from "Tr
 const idiomas = [ "Português", "English", "Français" ];
 ```
 
-
+<details align="center">
+    <summary><b>Donate PIX</b></summary>
+    <p>
+      <img src="https://i.ibb.co/yRXtWyz/qrcode.png" width="250"/>
+    </p>
+</details>
