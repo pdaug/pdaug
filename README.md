@@ -31,8 +31,8 @@ const idiomas = [ "Português", "English", "Français" ];
 ```
 
 <details align="center">
-    <summary><b>Donate PIX</b></summary>
+    <summary><b></b></summary>
     <p>
-      <img src="https://i.ibb.co/yRXtWyz/qrcode.png" width="250"/>
+      <!--<img src="https://i.ibb.co/yRXtWyz/qrcode.png" width="250"/>-->
     </p>
 </details>
