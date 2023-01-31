@@ -1,38 +1,38 @@
 <h2 align="center"> Olá, eu sou o Pedro! </h2>
 
-### 💼 Experiências Profissionais </h3>
+### Experiências Profissionais </h3>
 
-#### SuperGeeks Brasil
+#### 💼 SuperGeeks Brasil
 
-`Conteudista (Março 2022 - Momento)`
+```
+Conteudista 
+> Março 2022 - Momento
+```
 
-#### SuperGeeks Itu
+#### 💼 SuperGeeks Itu
 
-`Instrutor (Agosto 2019 - Momento)`
+```
+Instrutor 
+> Agosto 2019 - Momento
 
-`Estagiário (Junho 2019 - Agosto 2019)`
+Estagiário 
+> Junho 2019 - Agosto 2019
+```
 
 ### 🧰 Competências
 
-```javascript
-return { Comunicação, Didática, Oratória };
+```sql
+SELECT comunicacao, didatica, oratoria FROM competencias;
 ```
 
 ### 💻 Linguagens e Tecnologias
 
 ```javascript
-import { NodeJs, Typescript, React, MongoDB, DynamoDB, Git, AmazonAWS } from "Trabalhando";
+import { Javascript, Typescript, React, MongoDB, Node } from "Tecnologias"
 ```
 
 ### 🌍 Idiomas
 
-```javascript
-const idiomas = [ "Português", "English", "Français" ];
+```cs
+string[] idiomas = { "Português", "English", "Français" };
 ```
-
-<details align="center">
-    <summary><b></b></summary>
-    <p>
-      <!--<img src="https://i.ibb.co/yRXtWyz/qrcode.png" width="250"/>-->
-    </p>
-</details>
