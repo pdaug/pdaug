@@ -2,6 +2,13 @@
 
 ### Experiências Profissionais </h3>
 
+#### 🗺️ SmartGPS
+
+```
+Treinamento
+> Março 2023 - Momento
+```
+
 #### 💼 SuperGeeks Brasil
 
 ```
