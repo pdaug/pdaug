@@ -1,45 +1,52 @@
-<h2 align="center"> Olá, eu sou o Pedro! </h2>
+<h1 align="center"> Olá, eu sou o Pedro! </h1>
 
 ### Experiências Profissionais </h3>
 
-#### 🗺️ SmartGPS
+#### SmartGPS
 
 ```
-Treinamento
-> Março 2023 - Momento
+Treinamento 
+(Março - Junho 2023)
 ```
 
-#### 💼 SuperGeeks Brasil
+#### SuperGeeks Brasil
 
 ```
 Conteudista 
-> Março 2022 - Momento
+(Março 2022 - Momento)
 ```
 
-#### 💼 SuperGeeks Itu
+#### SuperGeeks Itu
 
 ```
-Instrutor 
-> Agosto 2019 - Momento
+Instrutor de Programação 
+(Agosto 2019 - Momento)
+```
 
+```
 Estagiário 
-> Junho 2019 - Agosto 2019
+(Junho - Agosto 2019)
 ```
 
-### 🧰 Competências
+### Competências
 
-```sql
-SELECT comunicacao, didatica, oratoria FROM competencias;
+```
+Comunicação, Didática, Oratória, Solução de Problemas
 ```
 
-### 💻 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
-```javascript
-import { Javascript, Typescript, React, MongoDB, Node } from "Tecnologias"
+```
+JavaScript/TypeScript
+React
+MongoDB
+SQL
+Node
+Amazon Web Service
 ```
 
-### 🌍 Idiomas
+### Idiomas
 
-```cs
-string[] idiomas = { "Português", "English", "Français" };
+```
+Português", "English", "Français" };
 ```
