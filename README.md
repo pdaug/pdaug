@@ -1,29 +1,31 @@
 <h1 align="center"> Olá, eu sou o Pedro Augusto! </h1>
 
-### Experiências Profissionais </h3>
+### Experiências Profissionais
 
 #### SmartGPS
 
-`Treinamento (Março 2023 - Julho 2023)`
+`Desenvolvedor (De julho 2023 até o momento)`
+
+`Treinamento (De março 2023 até julho 2023)`
 
 #### SuperGeeks Brasil
 
-`Conteudista (Março 2022 - Momento)`
+`Conteudista (De março 2022 até o momento)`
 
 #### SuperGeeks Itu
 
-`Instrutor de Programação (Agosto 2019 - Julho 2023)`
+`Instrutor de Programação (De agosto 2019 até julho 2023)`
 
-`Estagiário (Junho - Agosto 2019)`
+`Estagiário (De junho até agosto 2019)`
 
 ### Tecnologias
 
-|Categorias| Descrições |
+|Key| Value |
 |:-|:-|
-|Linguagens     | Javascript e Typescript                       |
-|Banco de dados | MongoDB, DynamoDB, PostgreSQL, MySQL e SQLite |
-|Frameworks     | Node, React, Next, Express e Laravel          |
-|Services       | Firebases, AWS e Azure                        |
+|Linguagens     | Javascript, Typescript                       |
+|Banco de dados | PostgreSQL, SQLite, Redis, MongoDB           |
+|Frameworks     | Node, React, Express                         |
+|Services       | Google Cloud Platform, Firebase              |
 
 
 ### Competências 
