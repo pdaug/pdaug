@@ -10,27 +10,13 @@
 
 #### SuperGeeks Brasil
 
-`Conteudista (De março 2022 até o momento)`
+`Conteudista (De março 2022 até fevereiro de 2024)`
 
 #### SuperGeeks Itu
 
 `Instrutor de Programação (De agosto 2019 até julho 2023)`
 
 `Estagiário (De junho até agosto 2019)`
-
-### Tecnologias
-
-|Key| Value |
-|:-|:-|
-|Linguagens     | Javascript, Typescript                       |
-|Banco de dados | PostgreSQL, SQLite, Redis, MongoDB           |
-|Frameworks     | Node, React, Express                         |
-|Services       | Google Cloud Platform, Firebase              |
-
-
-### Competências 
-
-`Comunicação, Didática, Solução de Problemas`
 
 ### Idiomas 
 
