@@ -2,6 +2,10 @@
 
 ### Experiências Profissionais
 
+#### Lingoplace
+
+`Desenvolvedor (De fevereiro 2024 até o momento)`
+
 #### SmartGPS
 
 `Desenvolvedor (De julho 2023 até o momento)`
