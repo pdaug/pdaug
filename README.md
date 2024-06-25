@@ -2,13 +2,17 @@
 
 ### Experiências Profissionais
 
+### 🐙 🟪 SprintHub 
+
+`Desenvolvedor (De julho de 2024 até o momento)`
+
 #### Lingoplace
 
 `Desenvolvedor (De fevereiro 2024 até o momento)`
 
 #### SmartGPS
 
-`Desenvolvedor (De julho 2023 até o momento)`
+`Desenvolvedor (De julho 2023 até julho 2023)`
 
 `Treinamento (De março 2023 até julho 2023)`
 
