@@ -2,7 +2,7 @@
 
 ### Experiências Profissionais
 
-### 🐙 🟪 SprintHub 
+#### 🐙 SprintHub 🐙
 
 `Desenvolvedor (De julho de 2024 até o momento)`
 
