@@ -2,13 +2,17 @@
 
 ### Experiências Profissionais
 
+#### Translino
+
+`Desenvolvedor Freelancer (De agosto 2024 até o momento)`
+
 #### 🐙 SprintHub 🐙
 
 `Desenvolvedor (De julho de 2024 até o momento)`
 
 #### Lingoplace
 
-`Desenvolvedor (De fevereiro 2024 até o momento)`
+`Desenvolvedor Freelancer (De fevereiro 2024 até agosto 2024)`
 
 #### SmartGPS
 
