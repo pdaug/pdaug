@@ -2,7 +2,7 @@
 
 ### Experiências Profissionais
 
-#### Translino
+#### 🌳 Translino 🌳
 
 `Desenvolvedor Freelancer (De agosto 2024 até o momento)`
 
@@ -16,7 +16,7 @@
 
 #### SmartGPS
 
-`Desenvolvedor (De julho 2023 até julho 2023)`
+`Desenvolvedor (De julho 2023 até julho 2024)`
 
 `Treinamento (De março 2023 até julho 2023)`
 
