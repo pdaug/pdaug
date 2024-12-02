@@ -2,11 +2,11 @@
 
 ### Experiências Profissionais
 
-#### 🌳 Translino 🌳
+#### Translino
 
 `Desenvolvedor Freelancer (De agosto 2024 até o momento)`
 
-#### 🐙 SprintHub 🐙
+#### ▶️ SprintHub
 
 `Desenvolvedor (De julho de 2024 até o momento)`
 
