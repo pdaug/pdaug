@@ -2,9 +2,17 @@
 
 ### Experiências Profissionais
 
-#### ▶️ SprintHub
+#### Forza Sistemas (ERP)
 
-`Desenvolvedor (De julho de 2024 até o momento)`
+`Proprietário (De novembro de 2024 até e o momento)`
+
+#### ▶️ SprintHub (CRM)
+
+`Desenvolvedor Senior (De julho de 2024 até o momento)`
+
+#### SmartGPS (Rastreamento veícular)
+
+`Desenvolvedor Pleno (De julho de 2023 até julho de 2024)`
 
 #### SuperGeeks Brasil
 
@@ -12,7 +20,7 @@
 
 #### SuperGeeks Itu
 
-`Instrutor de Programação (De agosto 2019 até julho 2022)`
+`Instrutor (De agosto 2019 até julho 2023)`
 
 `Estagiário (De junho até agosto 2019)`
 
